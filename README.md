@@ -9,6 +9,9 @@ name `decree` on PyPI belongs to an unrelated third-party project.
 
 ## Install
 
+> Available once decree cuts its first tagged release (`vX.Y.Z`). Until then the
+> formula carries placeholder `url`/`sha256` and `brew install` will not resolve.
+
 ```bash
 brew install doruksahin/decree/decree
 ```
