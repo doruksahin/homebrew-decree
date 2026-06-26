@@ -15,8 +15,8 @@ class Decree < Formula
 
   desc "Software decision lifecycle toolkit for PRDs, ADRs, and SPECs"
   homepage "https://github.com/doruksahin/decree"
-  url "https://github.com/doruksahin/decree/releases/download/v1.1.0/decree-1.1.0.tar.gz"
-  sha256 "0c6226b734d6ee7cf03d3c632084eb30b6e9185ea705f649d7fe41d7582c01b8"
+  url "https://github.com/doruksahin/decree/releases/download/v1.2.0/decree-1.2.0.tar.gz"
+  sha256 "e39a9f7840bdf7344dfadcd8b812289f542254112ce8fb7913567b52dafbf890"
   license "MIT"
 
   depends_on "python@3.13"
